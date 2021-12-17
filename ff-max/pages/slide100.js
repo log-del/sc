@@ -1,4 +1,4 @@
-document.write(`<div class="card-wrap">
+<div class="card-wrap">
     <div class="card">
         <div class="imgBox">
             <img src="img/senjata/1.jpeg">
@@ -71,4 +71,4 @@ document.write(`<div class="card-wrap">
         </div>
         <div class="btn-claim" onclick="gass(this)">Claim</div>
     </div>
-</div>`);
+</div>
