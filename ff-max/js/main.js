@@ -12,8 +12,6 @@
                 prevEl: '.prev-slide',
             },
             });
-        </script>
-        <script>
             'use strict'
             // NATIVE JAVASCRIPT
             $(document).ready(function(){
